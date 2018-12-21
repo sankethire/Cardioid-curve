@@ -1,2 +1,2 @@
 # Cardioid-curve
-![ezgif12ce4b8821963](https://user-images.githubusercontent.com/26035692/50331868-466dae00-0526-11e9-8fe6-34ab8908594b.gif)
+![ezgif com-resize](https://user-images.githubusercontent.com/26035692/50332107-1e327f00-0527-11e9-8fa7-5ef5ecc5da27.gif)
